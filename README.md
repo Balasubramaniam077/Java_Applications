@@ -1,6 +1,6 @@
 <DOCTYPR html>
   <h1> JAVA APPLICATION</h1>
-  <body algin="center">
+  <body algin>
     <table>
   <tr>
     <th>Problem Statement</th>

@@ -12,7 +12,11 @@
   </tr>
   <tr>
     <td>Amazon</td>
-    <td><a href="https://github.com/Balasubramaniam077/Java_Applications/blob/main/Amazon_Application/amazon.java">amazon</a></td>
+    <td><a href="https://github.com/Balasubramaniam077/Java_Applications/blob/main/Amazon_Application/amazon.java">Amazon</a></td>
+  </tr>
+     <tr>
+    <td>Railway</td>
+    <td><a href="https://github.com/Balasubramaniam077/Java_Applications/blob/main/Railway/Railway_Ticket_Booking.java">Railway_Ticket_Booking</a></td>
   </tr>
 </table>
   </body>
